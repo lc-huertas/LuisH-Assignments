@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "06-puzzling"
+        "06-puzzling",
+        "07-map-of-the-hashmatique"
     ]
 }
