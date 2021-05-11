@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "07-map-of-the-hashmatique",
         "06-puzzling",
-        "07-map-of-the-hashmatique"
+        "08-lists-of-exceptions"
     ]
 }
