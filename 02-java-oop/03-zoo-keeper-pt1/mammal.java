@@ -1,6 +1,6 @@
 public class mammal {
     private int energyLevel;
-
+    
     public int displayEnergy(){
         System.out.println("energy: "+this.energyLevel);
         return this.energyLevel;
