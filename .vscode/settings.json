@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "02-java-oop/04-zoo-keeper-pt2",
         "02-java-oop/03-zoo-keeper-pt1",
         "02-java-oop/01-project-class",
-        "02-java-oop/04-zoo-keeper-pt2"
+        "02-java-oop/05-object-master-pt1"
     ]
 }
