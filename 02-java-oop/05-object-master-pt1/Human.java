@@ -1,11 +1,11 @@
 public class Human {
-    private int health = 100;
+    private double health = 100;
     private int strength = 3;
     private int stealth =3;
     private int intelligence = 3;
     
     // get ==================================================
-    public int getHealth(){
+    public double getHealth(){
         return this.health;
     }
     public int getStrength(){
@@ -18,7 +18,7 @@ public class Human {
         return this.intelligence;
     }
     // set ==================================================
-    public void setHealth(int hp){
+    public void setHealth(double hp){
         this.health = hp;
     }
     public void setStrength(int str){
